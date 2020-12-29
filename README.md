@@ -4,7 +4,7 @@ Thank you for checking out my Github profile! That means a lot to me.
 
 #### About a bit of me:
 
-I am a software engineer and I live in Helsinki/Finland with my beloved wife and little daughter.
+I am a software engineer in Space Industry (check-out [ICEYE](https://www.iceye.com)) and I live in Helsinki/Finland with my beloved wife and little daughter.
 
 I come from an era that software development was all about fun ⚡ We were teenagers infront of big CRT monitors and white keyboards, writing bootsectors to 1.44mb floppy hard drives or embedding custom tiny trojans into games to fool with the kids at school. 
 
