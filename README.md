@@ -12,7 +12,7 @@ I still try to keep things as fun. That is the soul of coding. If it isn't fun a
 
 Anyways;
 
-- 🔭 I’m currently working on two main hobby projects. [Minik](https://github.com/sinanislekdemir/minik) and [Payton](https://github.com/sinanislekdemir/payton).
+- 🔭 I’m currently working on two main hobby projects. [eXLang](https://github.com/sinanislekdemir/exlang) and [Payton](https://github.com/sinanislekdemir/payton).
 - 📫 You can reach me via sinan(at)islekdemir.com
 - 🕸️ You can also [visit my blog](https://www.islekdemir.com/)
 
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sinanislekdemir&theme=gruvbox)
+
