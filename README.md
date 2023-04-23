@@ -10,4 +10,3 @@ Anyways;
 - NEW! Check out [Poorman](https://github.com/sinanislekdemir/poorman) and [PoormanFS](https://github.com/sinanislekdemir/poorman-fs)!
 - 🔭 I’m currently working on a few main hobby projects. [eXLang](https://github.com/sinanislekdemir/exlang) and [Payton](https://github.com/sinanislekdemir/payton).
 - 📫 You can reach me via sinan(at)islekdemir.com
-- 🕸️ You can also [visit my blog](https://www.islekdemir.com/)
