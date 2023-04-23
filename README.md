@@ -7,7 +7,8 @@ I still try to keep things as fun. That is the soul of coding. If it isn't fun a
 
 Anyways;
 
-- 🔭 I’m currently working on two main hobby projects. [eXLang](https://github.com/sinanislekdemir/exlang) and [Payton](https://github.com/sinanislekdemir/payton).
+- NEW! Check out [Poorman](https://github.com/sinanislekdemir/poorman) and [PoormanFS](https://github.com/sinanislekdemir/poorman-fs)!
+- 🔭 I’m currently working on a few main hobby projects. [eXLang](https://github.com/sinanislekdemir/exlang) and [Payton](https://github.com/sinanislekdemir/payton).
 - 📫 You can reach me via sinan(at)islekdemir.com
 - 🕸️ You can also [visit my blog](https://www.islekdemir.com/)
 
