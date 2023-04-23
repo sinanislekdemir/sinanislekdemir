@@ -11,6 +11,3 @@ Anyways;
 - 🔭 I’m currently working on a few main hobby projects. [eXLang](https://github.com/sinanislekdemir/exlang) and [Payton](https://github.com/sinanislekdemir/payton).
 - 📫 You can reach me via sinan(at)islekdemir.com
 - 🕸️ You can also [visit my blog](https://www.islekdemir.com/)
-
-
-![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sinanislekdemir&theme=gruvbox)
